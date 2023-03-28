@@ -1,2 +1,2 @@
 # FilaVacina
-Projeto 2021 de Java 
+Aplicação para gerenciamento de uma fila de vacinação. Criado para utilização de conceitos básicos de JAVA.
